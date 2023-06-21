@@ -3,3 +3,4 @@ numpy
 matplotlib
 Scikit-learn
 seaborn
+category_encoders
